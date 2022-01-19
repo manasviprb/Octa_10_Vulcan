@@ -1,5 +1,3 @@
-![WhatsApp Image 2022-01-19 at 11 30 25](https://user-images.githubusercontent.com/97897662/150106730-ad1771c1-0464-4f2e-b5f6-85bca5ca4ab6.jpeg)
-![WhatsApp Image 2022-01-19 at 11 30 25](https://user-images.githubusercontent.com/97897662/150106758-e2e11c83-ca6f-494e-b74d-16a684ee8423.jpeg)
 # Octa_10_Vulcan
 **Aim**
 
@@ -32,6 +30,8 @@ The sensor node is based on Raspberry Pi and Arduino Uno based computation/proce
 Web services are used for data communication between the sensor node (deployed in the field) and the centralised database. Further, weather forecast data is fetched from the Internet for using the same in predicting soil moisture for the upcoming days. 
 
 Moreover, to develop a more accurate system, historical data regarding the quantity of irrigation used in the previous period are considered to adjust the quantity of water needed for irrigation.
+
+![WhatsApp Image 2022-01-19 at 11 30 25](https://user-images.githubusercontent.com/97897662/150106885-09b44523-a8c7-49b2-a6d9-59f517ce784c.jpeg)
  
 Tech Stack used in the project is Python Libraries like Pandas, Matplotlib, Seaborn and ScikitLearn.
 K - Nearest Neighbors algorithm is used in this project to perform the classification. The reasons behind using this algorithm are:
